@@ -1,0 +1,15 @@
+.text-center{
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
